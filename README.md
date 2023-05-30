@@ -23,8 +23,9 @@ You can use the libs Express, JWT, Bcrypt, Cors, etc.
 ## Usage
 
 ```html
-$ git clone https://github.com/Farham-Zaker/E-Commerce-Api-with-Node.js.git $
-npm install $ cd E-Comerce-Api $ npm install $ npm run server
+$ git clone https://github.com/Farham-Zaker/E-Commerce-Api-with-Node.js.git 
+$ npm install $ cd E-Comerce-Api 
+$ npm install $ npm run server
 ```
 
 Completing ......
